@@ -1,1 +1,2 @@
-Hello, my name is Feruza and love Java
+Hello, my name is Feruza and love Java.
+I start learning Java this year.
